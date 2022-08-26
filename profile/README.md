@@ -9,7 +9,7 @@ The project was primarily divided into four subsections :
 - The mobile app : Implemented by Krishna Bajaj & Kohav Dey
 - The dataset augmentation model : Implemented by Thanushree R
 - The transfer learning model : Implemented by Ramalakshmi K S & Sriram Radhakrishna
-- The autonomous cloud based backend package : Implemented by Sriram Radhakrishna
+- The autonomous cloud server infrastructure package : Implemented by Sriram Radhakrishna
 
 This project was the runner up submission for the NK826 statement issued by the Smart India Hackathon, 2022 (MHRD, Govt. of India)
 
