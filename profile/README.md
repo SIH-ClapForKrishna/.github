@@ -5,7 +5,7 @@ a MobilenetV2 model to classify various species of saltwater fishes.
 
 The contained repositories will remain private until paper publication is completed for this algorithm.
 
-[fishook-logo](https://github.com/SIH-ClapForKrishna/.github/blob/main/profile/fishook-logo.png)
+[fishook-logo](https://github.com/SIH-ClapForKrishna/.github/blob/main/profile/fishook-logo.png?raw=true)
 
 The project was primarily divided into four subsections :
 - The mobile app : Implemented by Krishna Bajaj & Kohav Dey
