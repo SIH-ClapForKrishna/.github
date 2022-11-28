@@ -4,7 +4,7 @@ This is the GitHub organization created to host the repositories of the FisHook 
 a MobilenetV2 model to classify various species of saltwater fishes.
 
 <p>
-    <img src="fishook-logo.png"/>
+    <img src="./fishook-logo.png"/>
 </p>
 
 The project was primarily divided into four subsections :
