@@ -3,11 +3,12 @@
 This is the GitHub organization created to host the repositories of the FisHook app, a Flutter/Firebase based implementation of a hosting platform for
 a MobilenetV2 model to classify various species of saltwater fishes.
 
-[./fishook-logo.png](https://github.com/SIH-ClapForKrishna/.github/blob/main/profile/fishook-logo.png)
+The contained repositories will remain private until paper publication is completed for this algorithm.
+
+[fishook-logo](https://github.com/SIH-ClapForKrishna/.github/blob/main/profile/fishook-logo.png)
 
 The project was primarily divided into four subsections :
 - The mobile app : Implemented by Krishna Bajaj & Kohav Dey
-- The dataset augmentation model : Implemented by Thanushree R
 - The transfer learning model : Implemented by Ramalakshmi K S & Sriram Radhakrishna
 - The autonomous cloud server infrastructure package : Implemented by Sriram Radhakrishna
 
