@@ -9,7 +9,7 @@ The contained repositories will remain private until paper publication is comple
 
 The project was primarily divided into four subsections :
 - The mobile app : Implemented by Krishna Bajaj & Kohav Dey
-- The data augmentation algorithm - Samue Thomas
+- The data augmentation algorithm - Samuel Thomas
 - The transfer learning model : Implemented by Ramalakshmi K S & Sriram Radhakrishna
 - The autonomous cloud server infrastructure package : Implemented by Sriram Radhakrishna
 
