@@ -3,7 +3,7 @@
 This is the GitHub organization created to host the repositories of the FisHook app, a Flutter/Firebase based implementation of a hosting platform for
 a MobilenetV2 model to classify various species of saltwater fishes.
 
-View a compilation of the original research conducted as part of this project in the form of our <a href="https://arxiv.org/abs/2304.01524" target="_blank">paper</a>, accepted for presentation at OCEANS '23 Limerick, Ireland.
+View a compilation of the original research conducted as part of this project in the form of our <a href="https://arxiv.org/abs/2304.01524" target="_blank">paper</a>, accepted for presentation at <a href="https://limerick23.oceansconference.org/" target="_blank">OCEANS '23 Limerick, Ireland</a>.
 
 
 ![fishook-logo](https://raw.githubusercontent.com/SIH-ClapForKrishna/.github/main/profile/fishook-logo.png)
